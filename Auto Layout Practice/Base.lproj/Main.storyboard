@@ -32,7 +32,6 @@
                                         </constraints>
                                     </imageView>
                                 </subviews>
-                                <color key="backgroundColor" red="0.0" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
                                 <constraints>
                                     <constraint firstItem="75J-Am-DJA" firstAttribute="centerY" secondItem="gk3-4A-s4z" secondAttribute="centerY" id="DGe-4c-mKa"/>
                                     <constraint firstItem="75J-Am-DJA" firstAttribute="centerX" secondItem="gk3-4A-s4z" secondAttribute="centerX" id="RVL-aW-CkN"/>
@@ -49,7 +48,6 @@
                                         </constraints>
                                     </imageView>
                                 </subviews>
-                                <color key="backgroundColor" red="1" green="0.4266378737" blue="0.95272749840000004" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <constraints>
                                     <constraint firstItem="FiN-Z3-B8K" firstAttribute="centerY" secondItem="ESn-1W-Rtg" secondAttribute="centerY" id="Tks-Sh-6NM"/>
                                     <constraint firstItem="FiN-Z3-B8K" firstAttribute="centerX" secondItem="ESn-1W-Rtg" secondAttribute="centerX" id="usY-Jq-n25"/>
